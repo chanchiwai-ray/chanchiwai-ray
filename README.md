@@ -2,14 +2,24 @@
 
 <!--- summary imported / copied from https://chanchiwai-ray.github.io/about#-hello-im-ray --->
 
-I'm a software engineer 💻 with 3 years of experience working on open source cloud technologies such as Juju, OpenStack,
-Kubernetes, and Observability Stack (Grafana, Prometheus, Loki). I am experienced in developing Charms, Snaps, Rocks,
-and Python packages.
+I'm a software engineer 💻 with 4+ years of experience building cloud automation and observability
+solutions across Juju, OpenStack, and Kubernetes ecosystems. Open-source contributor with hands-on
+expertise in developing charmed operators, exporters, and tooling to integrate with Grafana and
+Prometheus. Strong engineering foundation in Go and Python, with working knowledge of JavaScript
+and modern CI/CD practices.
 
-Currently, I'm working at [Canonical][canonical] to help refining their products based on the real world experience from
-our Managed Solution team. During my time at Canonical, I worked on and contributed to many open source projects
-including [Sunbeam][sunbeam], [MicroCeph][microceph], [Kafka][Kafka], [Hardware Observer Operator][hardware-observer],
-and many others [projects][projects].
+Currently, I'm working at [Canonical][canonical] to help refine their products based on the real
+world experience from our Managed Solution team. During my time at Canonical, I worked on and
+contributed to many open source projects including [Sunbeam][sunbeam], [MicroCeph][microceph],
+[Kafka][Kafka], [Hardware Observer Operator][hardware-observer], [Falco][falco-operators] and many
+others [projects][projects].
+
+
+I am interested in, and currently learning the following domains:
+
+- 🧠 AI/ML
+- ☁ Cloud Computing
+- ♾ DevOps and MLOps
 
 [canonical]: https://canonical.com/
 [sunbeam]: https://canonical.com/microstack
@@ -17,18 +27,4 @@ and many others [projects][projects].
 [kafka]: https://github.com/canonical/kafka-operator
 [projects]: https://chanchiwai-ray.github.io/projects
 [hardware-observer]: https://github.com/canonical/hardware-observer-operator
-
----
-
-<div display="flex">
-  <img
-    alt="Github Stats"
-    width=50%"
-    src="https://github-readme-stats.vercel.app/api?username=chanchiwai-ray&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&rank_icon=percentile"
-  >
-  <img
-    alt="Most Used Languages"
-    width=47%"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=chanchiwai-ray&layout=donut&theme=tokyonight"
-  >
-</div>
+[falco-operators]: https://github.com/canonical/falco-operators
